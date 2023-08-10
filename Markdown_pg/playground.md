@@ -20,7 +20,7 @@ The information on this page is derived from the following links:
 3. [Linking](#linking)
 4. [Tables](#tables)
 5. [Badges](#badges)
-6. [Misc.](#misc.)
+6. [Misc.](#misc)
 
 ## Text
 
