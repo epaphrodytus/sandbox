@@ -14,6 +14,8 @@ The information on this page is derived from the following links:
 1. [Text](#text)
    - [In-line](#in-line)
    - [Blocks](#blocks)
+     - [Blockquote](#blockquote)
+     - [Code Blocks](#code-blocks)
 2. [List](#list)
 3. [Linking](#linking)
 4. [Tables](#tables)
