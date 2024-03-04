@@ -123,7 +123,7 @@ The Markdown used to create the above is as follows:
 ##### _Indentation_
 
     By Putting in 4 spaces before a block
-    You get and leaving an empty line before and after
+    and leaving an empty line before and after
     You get a code block as well
         You can place indents in the code block
         by putting in another 4 spaces
