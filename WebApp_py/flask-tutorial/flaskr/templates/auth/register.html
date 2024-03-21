@@ -1,0 +1,12 @@
+{% extends 'base.html' %} {% block header %}
+<h1>{% block title %}Register{% endblock %}</h1>
+{% endblock %} {% block content %}
+<form method="post">
+  <label for="username">Username</label>
+  <!-- the required tag does client-side validation where html prevents the browser from submitting the form until those fields tagged with required are filled in. This is not always avaiable. Regardless, you should still do server-side validation -->
+  <input name="username" id="username" />
+  <label for="password">Password</label>
+  <input type="password" name="password" id="password" />
+  <input type="submit" value="Register" />
+</form>
+{% endblock %}
