@@ -1,0 +1,22 @@
+[project]
+# This is the distribution name of your package
+name = "example_package_epaphrodytus"
+# This is the package version
+version = "0.0.1"
+# Identifies the author
+authors = [
+    { name="Hypothetical Human", email="hypothetical.human@example.com" },
+]
+# Short, one-sentence summary of the package
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+# classifiers give the index and pip additional metadata about your package
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved || MIT License",
+    "Operating System :: OS Independent",
+] 
+
+[project.urls]
+Homepage = ""
