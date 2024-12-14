@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: example_package_epaphrodytus
+Version: 0.0.1
+Summary: A small example package
+Author-email: Hypothetical Human <hypothetical.human@example.com>
+Project-URL: Homepage, https://github.com/epaphrodytus/sandbox/tree/main/PythonPackaging/packaging_tutorial
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Python Packaging Tutorial
+
+Following along the simple tutorial in [Python's Packaging User Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
